@@ -16,6 +16,13 @@ Dipakai untuk semua video Folklore Shorts (tiket #4). "Terinspirasi" artinya amb
 - Palet dasar: hitam-putih + 1 warna aksen per cerita (Malin Kundang: biru laut).
 - Scene kutukan/klimaks: kontras paling pekat + tekstur paling kasar.
 
+## Positioning channel (risiko #2: ekspektasi penonton)
+
+Format resmi channel: **motion manga** (manga bergerak) — bukan animasi penuh. Sampaikan sejak thumbnail dan 3 detik pertama:
+- Thumbnail: 1 frame gaya grunge + teks besar maksimal 4 kata.
+- Deskripsi channel/video mencantumkan "Cerita rakyat dalam format motion manga".
+- Jangan pernah janji "animasi" penuh di judul/thumbnail.
+
 ## Yang dilarang
 
 - Menyalin karakter, logo, atau aset langsung dari Gachiakuta/manga lain.
