@@ -13,10 +13,10 @@ Karakter suara sama di semua bahasa: pendongeng hangat seperti nenek, energi 4/1
 
 ## Catatan per bahasa
 
-- **ID:** suara native, sudah final (v3).
+- **ID:** DIHAPUS dari cakupan skill logat (keputusan pemilik). Pakai suara native v3 sebagai bahasa sumber — tidak dicari skill tambahan.
 - **EN:** aksen Amerika netral; "merantau" diucapkan meh-RAN-tow lalu dijelaskan "a tradition called merantau".
 - **JP:** pitch accent datar ala narasi; partikel diucapkan jelas, jangan telan bunyi.
-- **KR:** sudah lolos cek ejaan berbasis aturan (typo 비듯→빌듯 diperbaiki);rc nada 해요체 konsisten.
+- **KR:** sudah lolos cek ejaan berbasis aturan (typo 비듯→빌듯 diperbaiki); nada 해요체 konsisten.
 
 ## QA sebelum tayang (per bahasa)
 
